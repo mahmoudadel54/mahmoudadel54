@@ -22,6 +22,7 @@ Hi there 👋
 GIS Skills:
 
 <code><img height="20" src="https://luminfire.com/wp-content/uploads/2017/12/ArcGIS_Server_Logo.png"></code>
+<code><img height="20" src="https://luminfire.com/wp-content/uploads/2017/12/ArcGIS_Server_Logo.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4kz7CSqLfZnaoH0FM77rtGLl-cHkx2GOP2LOpexWMrGaYme84xzCr5QWVHDXXUS4SgLk&usqp=CAU"></code>
 <code><img height="20" src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png"></code>
 <code><img height="20" src="https://www.osgeo.org/wp-content/uploads/GeoServer-370x206.png"></code>
@@ -29,6 +30,7 @@ GIS Skills:
 <code><img height="20" src="https://i.ytimg.com/vi/1RRWWpofrBk/hqdefault.jpg"></code>
 <code><img height="20" src="https://webperfectapp.com/wp-content/uploads/2021/03/google-maps-api.jpg"></code>
 <code><img height="20" src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png"></code>
+<code><img height="20" src="https://www.osgeo.org/wp-content/uploads/QGIS_740x412_acf_cropped-370x206.png"></code>
 
 
 
