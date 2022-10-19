@@ -28,6 +28,7 @@ GIS Skills:
 <code><img height="20" src="https://luminfire.com/wp-content/uploads/2017/12/OpenLayers_Logo_200x200.png"></code>
 <code><img height="20" src="https://i.ytimg.com/vi/1RRWWpofrBk/hqdefault.jpg"></code>
 <code><img height="20" src="https://webperfectapp.com/wp-content/uploads/2021/03/google-maps-api.jpg"></code>
+<code><img height="20" src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png"></code>
 
 
 
