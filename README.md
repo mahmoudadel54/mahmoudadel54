@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mahmoudadel54
 - 👀 I’m interested in GIS Developement (Spatial stuff) plus Javascript 
-- 🌱 I’m currently working as GIS developer (using ESRI techs and open source techs for building web apps)
+- 🌱 I’m currently working as GIS Frontend developer at GeoSolutions, dedicated to MapStore project
 - 💞️ I’m looking to collaborate on some open source mapping JS libraries 
 - 📫 How to reach me,[My LinkedIn Account](https://www.linkedin.com/in/mahmoud-adel-2a0560131/)  or my mail (mahmood.adel54@yahoo.com)
 - 💬 ask me about anything, I am happy to help;
